@@ -1,9 +1,9 @@
 payload:
   - '+.flxvpn.net'
-  - '+.Netflix'
-  - '+.Netflix.com'
+  - '+.netflix.ca'
+  - '+.netflix.com'
   - '+.netflix.com.au'
-  - '+.Netflix.net'
+  - '+.netflix.net'
   - '+.netflixdnstest1.com'
   - '+.netflixdnstest10.com'
   - '+.netflixdnstest2.com'
